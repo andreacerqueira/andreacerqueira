@@ -3,11 +3,11 @@
 Senior Designer specializing in accessible web design and frontend development. I craft user-centered digital experiences with a focus on accessibility and clean code.
 
 ## 🚀 About Me
-- 🎨 Senior Designer specializing in digital brand implementation
-- 💻 Building custom HubSpot solutions and reusable components
+- 💻 Combining design expertise with frontend development
 - 🎯 Creating responsive and accessible web experiences
 - ♿ Passionate about web accessibility and inclusive design
-- ✨ Combining design expertise with frontend development
+- 🎨 Senior Designer specializing in digital brand implementation
+- 🎬 Creating motion graphics for product marketing
 - 🌱 Always learning and exploring...
 
 ## 💼 Technical Skills
@@ -20,12 +20,6 @@ const skills = {
     other: ['Responsive Design', 'Cross-Browser Testing', 'Motion Graphics']
 };
 ```
-
-## 🛠️ Recent Projects
-- 📱 Designed and developed custom HubSpot CMS modules and templates
-- 🎨 Implemented comprehensive design system with dark/light mode
-- ♿ Enhanced enterprise-wide accessibility features
-- 🎬 Created motion graphics for product marketing
 
 ## 🔗 Connect with Me
 - Portfolio: [andreaamado.com](https://andreaamado.com)
