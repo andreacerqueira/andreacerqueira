@@ -3,10 +3,12 @@
 Senior Designer specializing in accessible web design and frontend development. I craft user-centered digital experiences with a focus on accessibility and clean code.
 
 ## 🚀 About Me
-- 🎨 Senior Designer with expertise in UI/UX and frontend development
+- 🎨 Senior Designer specializing in digital brand implementation
+- 💻 Building custom HubSpot solutions and reusable components
+- 🎯 Creating responsive and accessible web experiences
 - ♿ Passionate about web accessibility and inclusive design
-- 💻 Currently working on enterprise-level design systems and HubSpot development
-- 🌱 Always learning and exploring new technologies
+- ✨ Combining design expertise with frontend development
+- 🌱 Always learning and exploring...
 
 ## 💼 Technical Skills
 ```javascript
