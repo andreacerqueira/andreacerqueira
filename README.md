@@ -13,7 +13,7 @@ Senior Designer specializing in accessible web design and frontend development. 
 ## 💼 Technical Skills
 ```javascript
 const skills = {
-    frontend: ['HTML5', 'CSS3', 'JavaScript', 'TypeScript', 'Vue.js'],
+    frontend: ['HTML5', 'CSS3', 'JavaScript', 'TypeScript', 'Vue.js', 'Tailwind CSS'],
     design: ['Figma', 'Adobe Creative Suite', 'Design Systems', 'UI/UX'],
     accessibility: ['WCAG', 'AODA', 'ARIA', 'VoiceOver'],
     cms: ['HubSpot', 'WordPress'],
