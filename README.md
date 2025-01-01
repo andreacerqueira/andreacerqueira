@@ -27,7 +27,7 @@ const skills = {
 
 ## 🔗 Connect with Me
 - Portfolio: [andreaamado.com](https://andreaamado.com)
-- LinkedIn: [linkedin.com/in/andrea-cerqueira](https://www.linkedin.com/in/andrea-cerqueira/)]
+- LinkedIn: [linkedin.com/in/andrea-cerqueira](https://www.linkedin.com/in/andrea-cerqueira/)
 - Email: andreaadecerqueira@gmail.com
 
 ## 📈 GitHub Stats
