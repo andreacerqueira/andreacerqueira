@@ -24,7 +24,7 @@ const skills = {
 ## 🔗 Connect with Me
 - Portfolio: [andreaamado.com](https://andreaamado.com)
 - LinkedIn: [linkedin.com/in/andrea-cerqueira](https://www.linkedin.com/in/andrea-cerqueira/)
-- Email: andreaadecerqueira@gmail.com
+- Instagram: [instagram.com/andreaamado](https://www.instagram.com/andreaamado/)
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=andreacerqueira&show_icons=true&theme=dracula)
