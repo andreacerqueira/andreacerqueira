@@ -2,7 +2,7 @@
 
 Senior Designer specializing in accessible web design and frontend development. I craft user-centered digital experiences with a focus on accessibility and clean code.
 
-## 🚀 About Me
+## 🤓 About Me
 - 💻 Combining design expertise with frontend development
 - 🎯 Creating responsive and accessible web experiences
 - ♿ Passionate about web accessibility and inclusive design
