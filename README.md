@@ -22,7 +22,7 @@ const skills = {
 ```
 
 ## 🔗 Connect with Me
-- Portfolio: [andreaamado.com](https://andreaamado.com)
+- Portfolio: [deia.work](https://deia.work)
 - LinkedIn: [linkedin.com/in/andrea-cerqueira](https://www.linkedin.com/in/andrea-cerqueira/)
 - Instagram: [instagram.com/andreaamado](https://www.instagram.com/andreaamado/)
 
